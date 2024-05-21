@@ -28,13 +28,11 @@ The models were evaluated using RMSE (Root Mean Squared Error) to measure predic
 ### KNN Model
 
 - **RMSE:** 0.9889
-- **Accuracy:** 38.96%
 - The KNN model predicted ratings of 3 and 4 most frequently, with a lower accuracy in predicting ratings 1, 2, and 5.
 
 ### SVD Model
 
 - **RMSE:** 0.9518
-- **Accuracy:** 41.21%
 - The SVD model also predicted ratings of 3 and 4 most frequently but showed a higher overall accuracy compared to the KNN model.
 
 ## Key Findings
